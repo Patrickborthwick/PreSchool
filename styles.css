@@ -1,0 +1,15 @@
+
+
+p, h1, h2, h3, h4, li{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.background{
+    background: rgba(255, 255, 255, 0.85)
+}
+body{
+    background-image: url('images/backgroundV5.png');
+
+}
